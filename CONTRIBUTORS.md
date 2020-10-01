@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Adrienne Levvie](https://github.com/AdrienneLevvie)
+- Place: City, State, Country
+- Bio: Just a rather very newbie coder
+- GitHub: [Adrienne Levvie](https://github.com/AdrienneLevvie
